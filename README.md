@@ -1,2 +1,4 @@
 # prettier-config
-A shared Prettier config
+Shared eslint configuration (sandbox)
+
+[WIP]

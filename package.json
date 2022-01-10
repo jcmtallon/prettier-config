@@ -1,0 +1,12 @@
+{
+    "name": "@jcmtallon/prettier-config",
+    "version": "0.0.0",
+    "description": "A shared Prettier config",
+    "repository": "https://github.com/jcmtallon/prettier-config",
+    "author": "jcmtallon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jcmtallon/prettier-config/issues"
+    },
+    "main": "index.js"
+  }
